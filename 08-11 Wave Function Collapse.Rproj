@@ -11,3 +11,8 @@ Encoding: UTF-8
 
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
+
+BuildType: Package
+PackageUseDevtools: Yes
+PackagePath: /Users/frankliang/Dropbox/Personal/code/Pet Project/08-11 Wave Function Collapse
+PackageInstallArgs: --no-multiarch --with-keep.source
